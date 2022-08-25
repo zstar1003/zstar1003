@@ -8,5 +8,7 @@ If you have a good job offer to me or want to discuss with me, please reach me v
 我是zstar，一名即将毕业的人工智能专业本科生。
 如果你有工作offer或者单纯想和我交流讨论，可以联系我的微信 zstar1003。
 
+![zstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zstar1003&show_icons=true&theme=radical)
+
 
 
