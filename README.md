@@ -6,7 +6,9 @@
 - 📫 My Blog：https://zstar.blog.csdn.net/
 - 📫 My Bilibili：https://space.bilibili.com/472442675
 
+<div align=center>
 ![zstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zstar1003&show_icons=true&theme=radical)
+</div>
 
 If you have a good job offer to me or want to discuss with me, please reach me via my Wechat zstar1003.
 
