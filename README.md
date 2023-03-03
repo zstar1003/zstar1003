@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m zstar, an undergraduate majoring in artificial intelligence.
-- 👀 I’m interested in Deep Learning
-- 📫 My Blog：https://zstar.blog.csdn.net/
-- 📫 My Bilibili：https://space.bilibili.com/472442675
+- 👀 I’m interested in **Everything**
+- :star: My Blog：https://zstar.blog.csdn.net/
+- :tv: My Bilibili：https://space.bilibili.com/472442675
 
 
 
@@ -11,5 +11,3 @@
 
 
 If you have a good job offer to me or want to discuss with me, please reach me via zstar1003@163.com.
-
-
