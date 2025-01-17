@@ -1,8 +1,7 @@
 
 - 👋 Hi, I’m zstar, a master majoring in computer science.
 - 👀 I’m interested in **Everything**
-- :star: My Blog：https://zstar.blog.csdn.net/
-- :tv: My Bilibili：https://space.bilibili.com/472442675
+- :star: Homepage：https://zstar.website
 
 
 
